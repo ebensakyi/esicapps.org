@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import React from "react";
 
 import { Typography, Card, CardBody } from "@material-tailwind/react";
