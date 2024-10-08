@@ -10,9 +10,9 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "NextJS Tailwind App Presentation Page",
+  title: "ESICApps",
   description:
-    "We are thrilled to offer you a Free App Presentation Template, a beautifully designed and user-friendly Tailwind CSS and ESICApps theme crafted specifically for app developers like you. The free app presentation template includes key features such as hero, features, FAQ, stats, and testimonial sections.",
+    "ESICApps is a mobile application software tool that collects, manages, analyses, and displays geographically referenced monitoring and inspection data using mobile phones and web-based dashboards and maps.",
 };
 
 export default function RootLayout({
